@@ -394,3 +394,4 @@ Helpers/Side Developers:
 
 ### Script Template/Example
 COMING SOON
+This documentation is outdated. Forwarding you to [Nebula Softworks Docs](https://docs.nebulasoftworks.xyz/)
