@@ -2086,7 +2086,7 @@ function Luna:Notification(data) -- action e.g open messages
 			Content = "Missing or Unknown Content",
 			Icon = "view_in_ar",
 			ImageSource = "Material"
-		}, data or {})
+		}, data or {}))
 
 		-- Notification Object Creation
 		local newNotification = Notifications.Template:Clone()
